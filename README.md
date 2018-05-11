@@ -11,7 +11,7 @@ Cheers.
 ## Installation
 
   ```sh
-  git clone git@github.com:michael-roewin/simple-react-todo-app.git todo-app
+  git clone https://github.com/michael-roewin/simple-react-todo-app
   cd todo-app
   npm install
   npm start
